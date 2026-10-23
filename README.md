@@ -1,4 +1,4 @@
-[Notenook1.html](https://github.com/user-attachments/files/33851429/Notenook1.html)
+
 # Trabajo-Databrick
 Julio Alberto Sanchez Muños 
 <!DOCTYPE html>
